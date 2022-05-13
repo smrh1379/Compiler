@@ -1,0 +1,37 @@
+/*hjskjdhkjnalkmnlkams*asdas*dasdasdasd*asdasdasd*/
+\\ 
+// SALAM
+class main {
+    let int [] items;
+
+    func printArray() void {
+        let int i;
+        for(i=0;i<100;i++) {
+            print(items[i]);
+        }
+    }
+    func main() int {
+        let int i,j;\"
+        let int[] rawItems;
+        let int arrayLenInHex;
+        arrayLenInHex = 0x64;
+        rawItems = new int [arrayLenInHex];
+
+        let int dummyScientificNumber;
+        dummyScientificNumber = 10.2E+2;
+
+        print("Please enter random numbers.")
+        print("Max numbers counter: 100, \n(Enter \"-1\" to end sooner.)");
+    
+        for (i=0;i<arrayLenInHex; i = i + 1) {
+            let int x;
+            x = inputInt ();
+            if (x == -1) {
+                break;
+            } else {
+                rawItems[i] = x ;
+            }
+        }
+    }
+    printArray();
+}
