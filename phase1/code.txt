@@ -1,6 +1,4 @@
-/*hjskjdhkjnalkmnlkams*asdas*dasdasdasd*asdasdasd*/
-\\ 
-// SALAM
+
 class main {
     let int [] items;
 
@@ -11,7 +9,7 @@ class main {
         }
     }
     func main() int {
-        let int i,j;\"
+        let int i,j;
         let int[] rawItems;
         let int arrayLenInHex;
         arrayLenInHex = 0x64;
