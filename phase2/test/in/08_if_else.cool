@@ -1,0 +1,13 @@
+class IFEXAMPLE {
+
+    func ifExample() bool {
+        if (x > 20) {
+            condition = false;
+        }
+        if (x != y) 
+            x = 2;
+        else
+            y = 1;
+        return true;
+    }
+}

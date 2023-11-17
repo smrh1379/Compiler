@@ -1,0 +1,15 @@
+func sum(int a, int b) int {
+    return a + b;
+}
+
+class Main {
+    func main() int {
+        let int i;
+        i = 0;
+
+        if(i == 0)
+            print(i);
+
+        return 0;
+    }
+}

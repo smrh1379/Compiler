@@ -1,0 +1,5 @@
+class MyExample {
+    func returnValueIsNotCorrect(int a, bool b, string s) void {
+        return 0;
+    }
+}

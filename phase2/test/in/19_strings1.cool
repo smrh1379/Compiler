@@ -1,0 +1,7 @@
+class main {
+
+	func method () int {
+		let string str;
+		str = "sal"am";
+	}
+}

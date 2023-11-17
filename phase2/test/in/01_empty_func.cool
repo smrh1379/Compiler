@@ -1,0 +1,4 @@
+class Main {
+    func function() int {
+    }
+}

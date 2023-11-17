@@ -1,0 +1,11 @@
+class Strange {
+    let Print PRINT;
+    let Void VOID;
+    let RETURN reTurn;
+
+    func INT() RETURN {
+        let LET x;
+        x = false;
+        reTurn = False;
+    }
+}

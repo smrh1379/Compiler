@@ -1,0 +1,7 @@
+class main {
+
+	func method() void {
+		let int a = 123;
+	}
+
+}

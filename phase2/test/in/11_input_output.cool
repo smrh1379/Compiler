@@ -1,0 +1,14 @@
+class InOut {
+    func printer_00to00_console () void {
+		print (1);
+		print(1.2);
+		print(-2.3);
+		print ( "hello world" );
+		print(123 + 345);
+		print(123.32+1);
+
+		x = inputInt();
+		y = inputStr();
+		return;
+    }
+}

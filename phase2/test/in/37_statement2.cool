@@ -1,0 +1,11 @@
+class main {
+
+	func method() void {
+		
+		let string input;
+		{
+			input = inputStr();
+		}
+	
+	}
+}

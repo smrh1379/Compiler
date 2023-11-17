@@ -1,0 +1,19 @@
+class IFEXAMPLE {
+
+    func main() bool {
+        let int x,y;
+        let bool condition;
+        x=1;
+        y=2;
+        for (;x<12;x=x+1){
+        if (4.5<5.5) {
+            condition = false;
+        }
+        if (x != y) 
+            x = 2;
+        else
+            y = 1;
+        return true;
+    }
+    }
+}

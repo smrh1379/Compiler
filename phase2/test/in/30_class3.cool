@@ -1,0 +1,4 @@
+class Main {
+	let int variable;
+	variable = 12;
+}

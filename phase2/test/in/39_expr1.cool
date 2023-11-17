@@ -1,0 +1,10 @@
+class Main {
+
+	func AMethod () int {
+		c = (a*b * (a/b) + 1 - 2) + 2 * bc;  
+		b = c--;  
+		d = ++c;
+	}
+}
+
+

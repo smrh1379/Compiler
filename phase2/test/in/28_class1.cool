@@ -1,0 +1,24 @@
+class student{
+	let real[] grades;
+	func average() real{
+		let real sum;
+		sum = 0;
+		grades = new real[20];
+		let int i;
+		for(i=0;i<len(grades);i++) {
+			sum = sum + grades[i];
+		}
+		return sum/len(grades);
+	}
+}
+
+class Main{
+
+	func main() int{
+	
+		let student s;
+		let real[] copyOfGrades;
+		copyOfGrades = s.grades;
+		print(s.average());
+	}
+}

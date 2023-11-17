@@ -1,0 +1,12 @@
+class Main{
+
+	func main () int {
+		let int i;
+		for(i;i<12;i++) {
+			print(i);
+		}
+	}
+
+}
+
+

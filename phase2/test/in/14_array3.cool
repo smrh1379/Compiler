@@ -1,0 +1,13 @@
+class Main {
+	
+    func main() int {
+		let Child[] list;
+		let Par parent;
+		let int lengthOfList;
+		parent = list.par;
+		lengthOfList = parent.length;
+		list = new Child[lengthOfList];
+		print(list[32]);
+        	return 0;
+    }
+}

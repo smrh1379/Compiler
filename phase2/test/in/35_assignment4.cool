@@ -1,0 +1,16 @@
+class B {
+	let int c;
+	func getCPlusParam(int param) int {
+		return c + param;
+	}
+}
+class Main {
+	func main() void { 
+		let int[] arr;
+		let B b;
+		arr = new int[10];
+		arr[0] = 1;
+		arr[1] = -2;
+		arr[2] = arr[0] + 1 - b.c * 3 + ((b.getCPlusParam(arr[1]) / 0));
+	}
+}

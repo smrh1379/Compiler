@@ -1,0 +1,9 @@
+class foo {
+	let int bar;
+}
+class Main {
+	func main() void { 
+		let foo item;
+		item.bar = 120;
+	}
+}

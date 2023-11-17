@@ -1,0 +1,31 @@
+class Main {
+  let int[] items;
+  func printArray () void {
+    let int i;
+    print("sorted list:");
+    for (i in range(0, 100, 1)) {
+      print (items[i]);
+    }
+  }
+
+  func main () int {
+    let int i;
+    let int j;
+    let int[] rawItems;
+    rawItems = new int[100];
+    for (i in range(0, 100)) { 
+      let int x;
+      x = inputInt();
+      if (x == -1)
+        break;
+      else
+        rawItems[i] = x;
+    }
+    let Sort s;
+    items = s.bubbleSort(rawItems);
+    printArray();
+  }
+}
+
+
+

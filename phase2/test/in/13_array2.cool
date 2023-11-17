@@ -1,0 +1,10 @@
+class main {
+
+	func main () void {
+		let int[] numbers;
+		numbers = new int[a + b];
+		let item[] items;
+		items = new item[13];
+		items[] = len(items);
+	}
+}

@@ -1,0 +1,14 @@
+class AClass {
+
+    func funcName() real {
+        let int magicNumber;
+        return magicNumber;
+    }
+
+    func methodname1(VarType var1) MyType {
+    }
+
+    func methodname2(int a, VarType2 b) string {
+        print(a);
+    }
+}
